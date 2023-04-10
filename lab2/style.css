@@ -1,0 +1,11 @@
+h2,h3,h4{
+    color: blue;
+}
+.Paragraph1{
+    color: yellow!important;
+    font-size: 14px;
+    text-decoration: underline;
+}
+.second {
+    color: #FF00FF;
+}
