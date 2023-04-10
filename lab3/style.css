@@ -1,0 +1,11 @@
+TR, TD{
+    border: #FF00FF solid 8px;
+}
+.eleg-text{
+    font-size: 24px;
+    color: aquamarine;
+    text-decoration: underline ;
+}
+.main{
+    color: #FF00FF;
+}
