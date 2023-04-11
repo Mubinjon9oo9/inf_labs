@@ -1,0 +1,13 @@
+.changes{
+   color: blue;
+}
+.images{
+    list-style-image: url("0215524262627309110.png");
+    margin-left: 40px;
+}
+.without{
+    list-style-type: none;
+}
+span{
+    color: #000000;
+}
